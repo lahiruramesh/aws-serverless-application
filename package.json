@@ -1,0 +1,28 @@
+{
+  "name": "aws-serverless-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahiruramesh/aws-serverless-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahiruramesh/aws-serverless-application/issues"
+  },
+  "homepage": "https://github.com/lahiruramesh/aws-serverless-application#readme",
+  "dependencies": {
+    "aws-amplify": "^6.0.6"
+  },
+  "devDependencies": {
+    "@aws-amplify/backend": "^0.6.0",
+    "@aws-amplify/backend-cli": "^0.9.2",
+    "typescript": "^5.3.3"
+  }
+}
